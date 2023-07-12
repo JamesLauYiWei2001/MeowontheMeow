@@ -1,0 +1,54 @@
+body {
+background-image: url(https://wallpapers.com/images/hd/cute-cat-pattern-1h8qjydj05zebbzr.jpg); 
+  font-family: "Comic-sans-ms"; 
+  padding: 20px; 
+}
+h1 {
+font-size:xx-large
+text-align: justify;
+}
+p {
+    font-size:medium; 
+}
+li {
+    font-size: medium; 
+}
+
+h1, h2, p, h3, ul, {
+    text-align:center; 
+}
+.meow {
+    width: 75%;
+    background-color: white; 
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 20px;
+    max-width: 500px;
+}
+.meowcredits {
+    font-size: 25px;
+}
+.meowreasons {
+    color:brown; 
+    font-size:20px; 
+    width:auto;
+}
+.meowtitle {
+    color:blue;
+    font-size: 40px;
+    width: auto;
+}
+.meowimage {
+    text-align: center;
+}
+.meowbutton {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+meowlistitems {
+    font-size: 10px;
+}
